@@ -6,9 +6,9 @@ yarn-debug.log*
 yarn-error.log*
 
 # manyrepos
-src/submodule_1/
-src/submodule_2/
-src/submodule_3/
+#src/submodule_1/
+#src/submodule_2/
+#src/submodule_3/
 
 # Runtime data
 pids
